@@ -1,0 +1,15 @@
+.Login {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Login p {
+    color: white;
+    font-family: 'Roboto Medium';
+    font-size: 24;
+}
